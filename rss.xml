@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	
+	<channel>
+		<title><![CDATA[Куда бежать]]></title>
+		<description><![CDATA[Как сменить специальность с нуля не имея ничего? Интервью о преодолении профессионального разрыва.]]></description>
+		<link>https://philippbaranovskiy.github.io/kak.kuda/</link>
+		<image>
+			<url>https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_4500x4500.png</url>
+			<title>Куда бежать</title>
+			<link>https://philippbaranovskiy.github.io/kak.kuda/</link>
+		</image>
+		
+		<lastBuildDate>Sat, 16 May 2020 18:20:04 GMT</lastBuildDate>
+		
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<atom:link
+			href="https://philippbaranovskiy.github.io/kak.kuda/rss.xml"
+			rel="self" type="application/rss+xml"
+		/>
+		<author><![CDATA[Филипп и Мари]]></author>
+		<copyright><![CDATA[Филипп и Мари]]></copyright>
+		<language><![CDATA[ru-ru]]></language>
+		
+		<itunes:author>Филипп и Мари</itunes:author>
+		<itunes:summary>Как сменить специальность с нуля не имея ничего? Интервью о преодолении профессионального разрыва.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Philipp Baranovskiy</itunes:name>
+			<itunes:email>philipp.b@ya.ru</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		
+		<itunes:category text="Business">
+			<itunes:category text="Careers"/>
+		</itunes:category>
+		
+		<itunes:image href="https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_4500x4500.png"/>
+		
+		<item>
+			<title><![CDATA[0. Тизер, мы начали.]]></title>
+			<dc:creator><![CDATA[Филипп и Мари]]></dc:creator>
+			<pubDate>Wed, 6 May 2020 17:12:34 GMT</pubDate>
+			<description><![CDATA[Подкаст «куда бежать», в котором мы разберёмся в глобальных вопросах позиционирования себя, в мелких вопросах своего поведения, разберёмся как сменить специальность, какие сферы жизни набирают обороты и куда направить свои лыжи.]]></description>
+			<itunes:summary>Подкаст «куда бежать», в котором мы разберёмся в глобальных вопросах позиционирования себя, в мелких вопросах своего поведения, разберёмся как сменить специальность, какие сферы жизни набирают обороты и куда направить свои лыжи.</itunes:summary>
+
+			<link>https://philippbaranovskiy.github.io/kak.kuda/episodes/0_where-to-run_teaser.mp3</link>
+			<guid isPermaLink="false">0_where-to-run_teaser</guid>
+			<enclosure
+				url="https://philippbaranovskiy.github.io/kak.kuda/episodes/0_where-to-run_teaser.mp3"
+				type="audio/mpeg"
+				length="2307420"
+			/>
+
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>86</itunes:duration>
+			<itunes:image href="https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_4500x4500.png"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
