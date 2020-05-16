@@ -7,7 +7,7 @@
 		<description><![CDATA[Как сменить специальность с нуля не имея ничего? Интервью о преодолении профессионального разрыва.]]></description>
 		<link>https://philippbaranovskiy.github.io/kak.kuda/</link>
 		<image>
-			<url>https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_4500x4500.png</url>
+			<url>https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_2902x2902.png</url>
 			<title>Куда бежать</title>
 			<link>https://philippbaranovskiy.github.io/kak.kuda/</link>
 		</image>
@@ -36,7 +36,7 @@
 			<itunes:category text="Careers"/>
 		</itunes:category>
 		
-		<itunes:image href="https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_4500x4500.png"/>
+		<itunes:image href="https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_2902x2902.png"/>
 		
 		<item>
 			<title><![CDATA[0. Тизер, мы начали.]]></title>
@@ -55,7 +55,7 @@
 
 			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:duration>86</itunes:duration>
-			<itunes:image href="https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_4500x4500.png"/>
+			<itunes:image href="https://philippbaranovskiy.github.io/kak.kuda/podcast_cover_v1_2902x2902.png"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>trailer</itunes:episodeType>
 		</item>
